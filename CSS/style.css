@@ -1,0 +1,75 @@
+.myLikes{
+    color:green;
+    background-color: black;
+}
+
+#ordered_list{
+    background-color:chartreuse;
+    color: firebrick;
+}
+
+.my_dislikes{
+    color:teal;
+    background-color: skyblue;
+}
+
+#unorderedList{
+    background-color: slateblue;
+    color: slategray;
+}
+
+#special{
+    color:wheat;
+    font-size: smal;
+}
+
+.likes{
+    color: darkorange;
+    font-weight: 800;
+    font-size: large;
+}
+#listItem{
+    color: blanchedalmond;
+    font-size: medium;
+}
+
+#music{
+    color: tomato;
+    font-size: small;
+}
+
+#read{
+    color:thistle;
+    font-weight: 300;
+}
+
+#cook{
+    color:tan;
+    font-size: medium;
+}
+
+.dislikes{
+    font-weight:400;
+    color: rosybrown;
+    font-size: small;
+}
+
+#toxic{
+    color:brown;
+    font-size: 15px;
+}
+#hospital{
+    color: gray;
+    font-size: small;
+}
+#forced{
+    color:azure;
+    font-size: 10px;
+    font-weight: 300;
+}
+#lies{
+    color: hotpink;
+    font-size: 18px;
+    font-weight: 700;
+    
+}
